@@ -1,6 +1,8 @@
 <h1>Hi, I'm Loubna! <br/> IT Engineer,  Mobile App Developer, AI Developer</h1>
-<!--
+
 <h2>👨‍💻 Software Development Projects:</h2>
+<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
