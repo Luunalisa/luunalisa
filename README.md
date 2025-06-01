@@ -13,7 +13,7 @@
 - Real-world AI applications
 #
 ### 👨‍💻 My Projects: 
-**[Customer Churn Prediction](https://github.com/Luunaliza/Application-of-Machine-Learning-and-Deep-Learning-in-diagnosis-Covid19)**  
+**[Application of Machine Learning and Deep Learning in diagnosis Covid19](https://github.com/Luunaliza/Application-of-Machine-Learning-and-Deep-Learning-in-diagnosis-Covid19)**  
   Predicting telecom customer churn using Scikit-learn with 82% accuracy.
 
 
