@@ -13,6 +13,8 @@
 - Real-world AI applications
 #
 ### 👨‍💻 My Projects: 
+**[Customer Churn Prediction](https://github.com/luunaliza/customer-churn-prediction)**  
+  Predicting telecom customer churn using Scikit-learn with 82% accuracy.
 
 
 #
