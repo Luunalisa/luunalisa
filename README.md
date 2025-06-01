@@ -1,16 +1,17 @@
-<h1>Hi, I'm Loubna! <br/> IT Engineer,  Mobile App Developer, AI Developer</h1>
+## 👋 Hi, I'm Loubna
 
-<h2>👨‍💻 Software Development Projects:</h2>
-<!--
+🎓 Master's in Computer Science | Specialized in Sciences and Technologies of Information and Communication  
+💻 AI & ML Engineer | Data Scientist Enthusiast  
+🌍 Open to Remote Opportunities  
+📊 Skilled in Python, SQL, TensorFlow, Pandas, and more
 
-Here are some ideas to get you started:
+### 🧠 Areas of Interest
+- Machine Learning & Deep Learning
+- Data Science
+- Data Analysis & Visualization
+- NLP & Computer Vision
+- Real-world AI applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+[LinkedIn](https://www.linkedin.com/in/loubna-merchi) • [Email](mailto:loubnamerchi0525@gmail.com)
+
